@@ -1,0 +1,1 @@
+pub mod vegetables; // the code in src/garden/vegetables.rs is included too
